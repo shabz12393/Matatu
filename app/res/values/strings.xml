@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MyCORS</string>
+    <string name="title_activity_sign_out">sign out</string>
+    <string name="title_activity_maps">CORS Stations</string>
+    <string name="rtk_string">RTK</string>
+    <string name="sta_string">STA</string>
+    <string name="welcome_string">Welcome to MyCORS</string>
+    <string name="map_string">Map</string>
+    <string name="payment_string">Payment</string>
+    <string name="cors_stations_string">CORS Stations</string>
+    <string name="contact_us_string">Contact Us</string>
+    <string name="review_string">Reviews</string>
+    <string name="no_internet_string">No Internet Connection</string>
+    <string name="distance_string">Distance</string>
+    <string name="location_string">Location</string>
+    <string name="base_string">Base</string>
+    <string name="message_string">Enter Message</string>
+    <string name="subject_string">Enter Subject</string>
+    <string name="email_string">Enter Email</string>
+    <string name="submit_string">Submit</string>
+    <string name="contact_phone_string">+256 701170008 | +256 789967990</string>
+    <string name="contact_email">Email:</string>
+    <string name="support_eagle_string">support@eaglecors.com</string>
+    <string name="location_contact_string">Location:</string>
+    <string name="eaglecor_location_string">Plot 17 Mariba Building Golf Course Road -Kololo</string>
+    <string name="eagle_cor_period_string">Mon.-Fri.: 8am-6pm, Sat.: 8am-2pm</string>
+    <string name="period_string">Period:</string>
+    <string name="phone_string">Phone:</string>
+    <string name="contact_message">Message</string>
+    <string name="customer_reviews_strings">Customer Reviews</string>
+    <string name="devname_string">devName</string>
+    <string name="devname_password_string">111111</string>
+    <string name="auth_url">http://119.8.37.41:8613/auth</string>
+    <string name="get_url">http://119.8.37.41:8613/dev/cors/get</string>
+    <string name="account_string">Account</string>
+    <string name="charge_string">5</string>
+    <string name="relworx_charge_string">2.5</string>
+    <string name="account_code_string">REL210C569CEC</string>
+    <string name="relworx_token_string">2f5536446a6870.oFFKA1xh7EiGm9ulHJAo9g</string>
+    <string name="payment_url_string">https://payments.relworx.com/api/mobile-money/request-payment</string>
+    <string name="log_url">https://www.eaglecorsug.net/Services/Transactions.asmx/AddTransaction</string>
+
+</resources>
